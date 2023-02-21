@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mx.gepp.micro1</groupId>
 	<artifactId>mx-gepp-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>mx-gepp-1</name>
 	<description>MS ejemplo gepp</description>
 	<properties>
